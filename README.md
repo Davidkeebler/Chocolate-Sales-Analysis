@@ -3,6 +3,8 @@
 ## Project Overview
 This project aims to delve into the trends and dynamics affecting chocolate sales using a comprehensive dataset. By analyzing key sales metrics such as total sales amount, number of boxes shipped, and geographical distribution, we can extract valuable insights. We also explore seasonal trends and the performance of various products and sales personnel, aiming to create a model that can predict future sales patterns. Our ultimate goal is to derive actionable business strategies to optimize sales performance.
 
+The other main goal of this project was to leverage Mito AI, an extension for jupyterlab that integrates agentic AI directly into your notebooks, to create a high-quality portfolio project as quickly as I can. I'd say it was a great success - this project was done in about an hour and a half across two sittings. Hard to be more efficient than that!
+
 ## Methodology
 1. **Data Acquisition & Preparation**: Downloaded the dataset using Kaggle\'s `kagglehub` library and prepared the data by cleaning and formatting necessary columns, such as the 'Amount'.
 
